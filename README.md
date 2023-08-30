@@ -1,1 +1,6 @@
-# Trilha JS Developer - Pokedex
+# Pokedex
+
+## Tecnologias 💻
+* HTML
+* CSS
+* Javascript
