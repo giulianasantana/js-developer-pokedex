@@ -8,7 +8,7 @@
 Projeto Pokédex desenvolvido durante o Bootcamp da DIO + Santander para aprender os fundamentos de HTML, CSS e JavaScript. <br>
 O projeto apresenta uma pokédex responsiva com imagens e informações dos pokémons das gerações 1 e 2.
  
-## Linguagens, dependencias e libs utilizadas 📚
+## Tecnologias utilizadas 📚
 * HTML
 * CSS
 * JavaScript
